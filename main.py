@@ -223,7 +223,7 @@ print("\nSaved plots/fig1_cross_sections.png")
 
 
 # =============================================
-# TASK 3 - RESIDUE EXTRACTION (POPRAWIONE)
+# TASK 3 - RESIDUE EXTRACTION
 # =============================================
 # We use higher energies (5, 10, 15 GeV) where Regge theory is valid,
 # avoiding the resonance-dominated region at low sqrt(s).
@@ -294,7 +294,7 @@ print(
 )
 
 for i, sq in enumerate(sqrts_pred):
-    sig_p_data = np.interp(sq,hp_sqrts, hp_sig)
+    sig_p_data = np.interp(sq, hp_sqrts, hp_sig)
     sig_m_data = np.interp(sq, hm_sqrts, hm_sig)
 
     dev_p = ((sig_piplus_pred[i] - sig_p_data) / sig_p_data * 100)
