@@ -10,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-os.makedirs("outputs", exist_ok=True)
+os.makedirs("plots", exist_ok=True)
 
 # =============================================
 # PHYSICS CONSTANTS
@@ -216,12 +216,12 @@ ax2.grid(True, alpha=0.3, which='both')
 
 plt.tight_layout()
 plt.savefig(
-    "outputs/fig1_cross_sections.png",
+    "plots/fig1_cross_sections.png",
     dpi=150,
     bbox_inches='tight'
 )
 
-print("\nSaved outputs/fig1_cross_sections.png")
+print("\nSaved plots/fig1_cross_sections.png")
 
 
 # =============================================
@@ -378,12 +378,12 @@ ax3.set_xlim([1, 300])
 
 plt.tight_layout()
 plt.savefig(
-    "outputs/fig2_regge_prediction.png",
+    "plots/fig2_regge_prediction.png",
     dpi=150,
     bbox_inches='tight'
 )
 
-print("\nSaved outputs/fig2_regge_prediction.png")
+print("\nSaved plots/fig2_regge_prediction.png")
 
 
 # =============================================
