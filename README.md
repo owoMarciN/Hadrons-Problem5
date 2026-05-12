@@ -1,6 +1,6 @@
 # Pomeron and ρ-Exchange Residues in Elastic πp Scattering
 
-This repository focuses on the phenomenological analysis of Pomeron and 蟻-meson exchange residues in elastic pion-proton (πp) scattering processes. 
+This repository focuses on the phenomenological analysis of Pomeron and ρ-meson exchange residues in elastic pion-proton (πp) scattering processes. 
 It utilizes Regge theory to model high-energy hadronic interactions and extract trajectory parameters from experimental data.
 
 ## Useful Links
