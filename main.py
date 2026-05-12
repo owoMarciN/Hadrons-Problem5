@@ -15,15 +15,15 @@ os.makedirs("plots", exist_ok=True)
 # =============================================
 # PHYSICS CONSTANTS
 # =============================================
-mN   = 0.9383
-mpi  = 0.1396
-nu0  = 1.0
+mpi  = 0.1396   # Pion mass
+mN   = 0.9383   # Nucleon Mass
+nu0  = 1.0      # Energy Scale
 
-aP   = 1.08
-arho = 0.55
+aP   = 1.08     # Pomeron Intercept
+arho = 0.55     # Rho Intercept
 
-aPp   = 0.25
-arhop = 0.85
+aPp   = 0.25    # Pomeron Slope
+arhop = 0.85    # Rho Slope
 
 bP = 2.0
 
