@@ -310,7 +310,7 @@ for i, sq in enumerate(sqrts_pred):
 
 fig2, ax3 = plt.subplots(figsize=(10, 6))
 
-sqrts_curve = np.linspace(2.5, 200, 1000)
+sqrts_curve = np.linspace(sqrts_pred[0], 200, 1000)
 nu_curve = s_to_nu(sqrts_curve**2)
 
 sig_pp_curve = sigma_piplus_regge(nu_curve, betaP_mean, betarho_mean)
