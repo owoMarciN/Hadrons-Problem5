@@ -22,8 +22,8 @@ nu0  = 1.0      # Energy Scale (typical in Regge model 1 GeV)
 aP   = 1.08     # Pomeron Intercept
 arho = 0.55     # Rho Intercept
 
-aPp   = 0.25    # Pomeron Slope
-arhop = 0.85    # Rho Slope
+aPp   = 0.25    # Pomeron Slope [GeV^−2]
+arhop = 0.85    # Rho Slope [GeV^−2]
 
 bP = 3.7        # Calculated Slope Parameter of Residuum
 # bP = 2.0      Was given in the evercise but I change it to obtain ~10 GeV^-2
