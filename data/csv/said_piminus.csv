@@ -1,0 +1,203 @@
+Data_Type,Energy_Variable,Energy_Value_MeV,Cross_Section_mb,Error_mb,Reference,Status
+Fit/Grid,PLAB,20.000,4.743,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,120.000,7.893,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,220.000,38.410,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,320.000,58.420,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,420.000,28.120,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,520.000,28.150,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,620.000,31.910,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,720.000,46.250,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,820.000,35.920,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,920.000,45.700,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1020.000,59.280,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1120.000,43.080,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1220.000,36.990,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1320.000,36.710,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1420.000,36.890,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1520.000,35.960,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1620.000,35.000,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1720.000,34.750,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1820.000,35.060,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,1920.000,35.600,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2020.000,36.060,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2120.000,36.170,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2220.000,35.760,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2320.000,34.970,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2420.000,34.000,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2520.000,33.030,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2620.000,32.150,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2720.000,31.410,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2820.000,30.850,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,2920.000,30.470,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3020.000,30.240,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3120.000,30.160,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3220.000,30.210,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3320.000,30.350,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3420.000,30.590,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3520.000,30.900,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3620.000,31.290,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3720.000,31.720,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3820.000,32.200,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,3920.000,32.710,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4020.000,33.240,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4120.000,33.760,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4220.000,34.270,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4320.000,34.750,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4420.000,35.200,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4520.000,35.590,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4620.000,35.940,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4720.000,36.230,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4820.000,36.480,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,4920.000,36.670,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5020.000,36.820,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5120.000,36.920,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5220.000,36.990,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5320.000,37.030,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5420.000,37.040,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5520.000,37.040,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5620.000,37.020,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5720.000,36.990,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5820.000,36.960,0.000,SAID WI08 Fit,Included
+Fit/Grid,PLAB,5920.000,36.920,0.000,SAID WI08 Fit,Included
+Experimental,T,72.500,13.600,1.900,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,76.700,15.800,-0.300,"CARTER, NPB26, 445(71), PC BUGG",Deleted from Analyses (03/25/98)
+Experimental,T,84.800,17.700,0.900,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,95.100,21.200,1.000,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,96.000,23.120,-0.240,"CARTER, NPB26, 445(71), PC BUGG",Deleted from Analyses (11/08/00)
+Experimental,T,96.900,22.200,2.000,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,107.900,28.000,0.800,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,109.700,29.300,1.200,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,114.400,33.740,0.340,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,119.900,38.440,0.470,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,121.000,38.600,0.700,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,122.600,39.300,1.100,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,127.200,44.480,0.460,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,134.400,47.700,0.800,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,136.000,50.300,1.200,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,140.900,55.350,0.430,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,147.800,58.200,0.700,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,149.400,59.100,0.800,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,158.127,56.400,2.000,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,159.600,67.900,0.360,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,161.100,66.200,0.600,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,162.700,68.100,0.900,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,164.700,70.260,0.330,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,169.400,71.000,0.900,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,171.633,67.200,1.100,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,172.600,70.740,0.340,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,174.500,71.900,0.600,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,175.900,72.200,0.800,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,178.354,67.200,1.100,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,182.900,70.600,0.800,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,184.600,69.760,0.350,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,185.109,67.700,1.000,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,188.100,68.800,0.600,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,189.700,68.800,0.800,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,189.811,67.800,0.800,"ZINOV CMU- EXPT ID=ZINOV58",Included
+Experimental,T,196.164,64.000,1.100,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,196.500,65.500,0.800,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,200.991,63.800,1.000,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,201.700,62.300,0.600,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,203.300,62.700,0.700,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,205.741,59.300,1.000,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,208.900,59.430,0.430,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,210.595,58.700,1.100,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,215.370,55.600,1.000,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,215.700,55.000,0.500,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,217.200,56.400,0.700,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,220.156,52.200,1.000,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,224.954,50.200,0.900,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,228.282,48.200,0.900,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,229.300,48.800,0.400,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,230.900,48.800,0.500,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,231.523,49.000,0.900,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,232.600,47.060,0.420,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,234.861,44.500,0.900,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,238.111,44.900,0.900,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,241.458,42.700,0.900,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,243.100,42.900,0.400,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,244.600,41.500,0.500,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,244.716,43.100,0.900,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,248.073,41.000,0.900,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,251.340,39.300,0.900,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,254.611,39.800,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,255.400,38.460,0.290,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,257.000,38.100,0.600,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,257.979,38.800,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,258.500,38.300,0.500,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,261.352,36.800,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,266.418,35.600,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,270.800,33.300,0.400,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,271.587,33.400,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,272.300,34.200,0.400,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,276.670,31.100,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,281.761,32.400,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,284.800,31.100,0.400,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,286.860,31.600,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,290.100,29.970,0.260,"CARTER, NPB26, 445(71), PC BUGG",Included
+Experimental,T,291.966,30.500,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,297.174,29.300,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,298.000,30.830,-0.200,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,299.000,29.000,0.300,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,302.484,28.900,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,307.610,28.100,0.800,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,311.000,27.890,-0.670,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,312.934,28.700,0.700,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,313.000,27.800,0.400,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,317.000,28.190,-0.170,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,318.169,27.000,0.600,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,323.410,26.200,0.600,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,325.000,26.800,-1.200,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,327.000,27.000,0.200,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,328.179,26.400,0.600,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,329.000,26.700,-0.550,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,334.100,26.000,0.600,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,336.100,26.730,-0.150,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,340.000,25.980,-0.620,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,341.200,26.600,0.200,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,344.909,24.900,1.000,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,350.000,26.730,-0.480,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,354.600,26.360,0.670,"CARTER, PR168, 1457(68)",Included
+Experimental,T,355.200,26.100,0.300,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,355.700,26.180,-0.170,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,360.000,25.980,-0.600,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,360.924,25.200,1.000,"ZINOV, CMU- EXPT ID=ZINOV58",Included
+Experimental,T,369.400,26.400,0.300,"PEDRONI, NPA300, 321(78) 04/29/8",Included
+Experimental,T,373.000,26.700,-0.600,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,374.700,26.500,-0.140,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,378.600,27.040,0.590,"CARTER, PR168, 1457(68)",Included
+Experimental,T,381.000,27.230,-0.460,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,390.000,26.500,-0.460,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,392.100,27.490,0.540,"CARTER, PR168, 1457(68)",Included
+Experimental,T,394.000,26.700,-0.110,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,410.000,27.570,-0.440,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,413.400,27.190,-0.180,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,418.000,34.000,-4.600,"DEVLIN, PRL14, 1031(65)",Deleted from Analyses (05/04/86)
+Experimental,T,420.000,28.400,-0.900,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,425.000,28.060,-0.460,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,427.900,28.520,0.500,"CARTER, PR168, 1457(68)",Included
+Experimental,T,432.700,27.880,-0.130,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,440.000,27.150,-0.400,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,442.400,29.360,0.450,"CARTER, PR168, 1457(68)",Included
+Experimental,T,452.200,28.810,-0.110,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,453.100,29.550,0.420,"CARTER, PR168, 1457(68)",Included
+Experimental,T,455.000,29.110,-0.400,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,457.000,32.600,-4.000,"DEVLIN, PRL14, 1031(65)",Deleted from Analyses (05/04/86)
+Experimental,T,460.000,29.310,-0.450,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,470.000,31.100,-0.900,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,471.500,29.260,-0.170,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,471.600,30.960,0.400,"CARTER, PR168, 1457(68)",Included
+Experimental,T,485.000,29.910,-0.400,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,490.000,30.190,-0.100,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,497.000,34.600,-2.900,"DEVLIN, PRL14, 1031(65)",Deleted from Analyses (05/04/86)
+Experimental,T,497.900,32.800,-0.300,"CARTER, PR168, 1457(68)",Deleted from Analyses (03/09/00)
+Experimental,T,500.000,30.710,-0.410,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,507.700,32.140,-0.140,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,507.700,34.240,-0.290,"CARTER, PR168, 1457(68)",Deleted from Analyses (03/09/00)
+Experimental,T,515.000,33.340,-0.410,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,516.000,35.900,-2.300,"DEVLIN, PRL14, 1031(65)",Deleted from Analyses (05/04/86)
+Experimental,T,525.200,34.020,-0.150,"DAVIDSON, PRD6, 1199(72) 04/21/8",Deleted from Analyses (07/19/98)
+Experimental,T,526.200,36.650,-0.270,"CARTER, PR168, 1457(68)",Deleted from Analyses (03/09/00)
+Experimental,T,530.000,34.840,-0.400,"BIZARD, NCA44, 999(66)",Deleted from Analyses (05/16/86)
+Experimental,T,537.000,40.000,-2.400,"DEVLIN, PRL14, 1031(65)",Deleted from Analyses (05/04/86)
+Experimental,T,538.900,39.590,-0.240,"CARTER, PR168, 1457(68)",Deleted from Analyses (03/09/00)
